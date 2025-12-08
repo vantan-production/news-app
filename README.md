@@ -8,6 +8,7 @@
 3. backendのコンテナに入る
   ``` bash
   docker compose run backend bash
+```
 4. migrationの実行
   ``` bash
   python manage.py migrate
