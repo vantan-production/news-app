@@ -3,3 +3,5 @@ Django
 mysqlclient
 # REST APIを作るためのライブラリ
 djangorestframework
+# 環境変数を読み込むためのライブラリ
+python-decouple
