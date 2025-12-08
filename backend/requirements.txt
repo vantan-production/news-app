@@ -1,0 +1,5 @@
+# 必要なライブラリをインストール
+Django
+mysqlclient
+# REST APIを作るためのライブラリ
+djangorestframework
